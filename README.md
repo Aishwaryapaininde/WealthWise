@@ -1,4 +1,4 @@
-# WealthWrap: Financial Technology (NetApp)
+# WealthWise: Financial Technology (NetApp)
 
 OVERVIEW:
 
